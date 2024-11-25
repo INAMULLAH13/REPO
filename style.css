@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background-color:#f3eeee
+    }
+    
+    #navbar{
+        display: flex;
+        justify-content: space-evenly;
+        height: 50px;
+        background-color: black;
+        color: white;
+        
+    }
+    .text1{
+        font-weight: 600;
+        margin-top: 20px;
+        background-color: black;
+    }
+    .text2{
+        margin-top: 20px;
+        background-color: black;
+    }
+    
+    .left{
+        display: flex;
+        position: sticky;
+        margin-left: 450px;
+        margin-top: 50px;
+        font-weight: 600;
+        color: #cdc9c9;
+      }
+    
+      .right{
+        margin-left: 650px;
+        font-weight: 600;
+        color: #cdc9c9; 
+        color: black; 
+    }
